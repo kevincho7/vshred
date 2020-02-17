@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e57cc0b-2234-4d56-ba72-eca7969e1d58" name="Default Changelist" comment="" />
+    <list default="true" id="8e57cc0b-2234-4d56-ba72-eca7969e1d58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="env" value="20" />
+          <entry key="gitignore" value="1" />
           <entry key="php" value="2539" />
         </counts>
       </usages-collector>
@@ -30,6 +34,7 @@
           <entry key=".env file" value="20" />
           <entry key="Blade" value="193" />
           <entry key="PHP" value="2346" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,6 +42,7 @@
           <entry key="env" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="json" value="1" />
+          <entry key="md" value="1" />
           <entry key="php" value="73" />
         </counts>
       </usages-collector>
@@ -45,6 +51,7 @@
           <entry key=".env file" value="1" />
           <entry key="Blade" value="1" />
           <entry key="JSON" value="1" />
+          <entry key="Markdown" value="1" />
           <entry key="PHP" value="72" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -69,7 +76,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -119,6 +130,8 @@
         <option value="$PROJECT_DIR$/app/Repositories/Interfaces/PermissionRepositoryInterface.php" />
         <option value="$PROJECT_DIR$/app/Repositories/PermissionRepository.php" />
         <option value="$PROJECT_DIR$/database/seeds/PermissionTableSeeder.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -358,12 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581729488151</updated>
-      <workItem from="1581729489454" duration="27464000" />
+      <workItem from="1581729489454" duration="28025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27464000" />
+    <option name="totallyTimeSpent" value="28025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="26" width="1669" height="964" extended-state="0" />
@@ -731,8 +744,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="45">
+            <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
